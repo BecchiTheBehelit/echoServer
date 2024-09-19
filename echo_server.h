@@ -11,7 +11,7 @@
 
 #define MAX_CLIENTS 5       // Maximum number of clients that can connect
 #define BUFFER_SIZE 1024    // Buffer size for reading data from clients
-#define PORT 8888           // Port number
+#define PORT 0000           // Port number
 #define NULL_CHAR '\0'      // We check for NULL at the end
 
 #endif // ECHO_SERVER_H 
